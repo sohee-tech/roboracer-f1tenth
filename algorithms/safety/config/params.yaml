@@ -1,0 +1,4 @@
+safety_brake_node:
+  ros__parameters:
+    front_half_angle_deg: 20.0   # ±degrees around forward axis to monitor
+    stop_distance_m: 0.5         # stop when front obstacle closer than this
